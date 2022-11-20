@@ -1,9 +1,9 @@
 #############################################################
-#							                                #
-#   D-Wave BQM/QUBO formulation sudoku solver	            #
-#							                                #
-#   July 2022 by Emilio Pomares (epomares@swaap.us)	        #
-#							                                #
+#                                                           #
+#   D-Wave BQM/QUBO formulation sudoku solver               #
+#                                                           #
+#   July 2022 by Emilio Pomares (epomares@swaap.us)         #
+#                                                           #
 #############################################################
 
 # Imports
